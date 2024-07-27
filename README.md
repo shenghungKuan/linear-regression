@@ -1,5 +1,5 @@
 # Linear Regression
-This project demostrates thress linear regression models, including linear regression, Ridge, and Lasso, to predict flight prices.
+This project demostrates three linear regression models, including linear regression, Ridge, and Lasso, to predict flight prices.
 ## Structure
 * EDA (Exploratory Data Analysis) with Seaborn, a data visualization library
 * Feature Engineering
